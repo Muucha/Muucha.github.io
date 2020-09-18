@@ -1,5 +1,5 @@
 var respecConfig = {
-  specStatus: "base",
+  specStatus: "NOTE",
   editors: [{
     name:       "Riccardo Albertoni",
     orcid:  "0000-0001-5648-2713",
