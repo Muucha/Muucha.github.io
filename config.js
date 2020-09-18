@@ -7,37 +7,6 @@ var respecConfig = {
     url: "http://www.imati.cnr.it/joomla/index.php/people/8-curricula/178-riccardo-albertoni",
     companyURL: "http://www.cnr.it/",
     w3cid: 72458
-  },{
-    name: "David Browning",
-    company: "Refinitiv",
-    companyURL: "https://www.refinitiv.com",
-    w3cid: 98704
-  },{
-    name:       "Simon Cox",
-    orcid:      "0000-0002-3884-3420",
-    company:    "CSIRO",
-    url:        "http://people.csiro.au/Simon-Cox",
-    companyURL: "https://www.csiro.au/",
-    w3cid: 1796
-  },{
-    name:       "Alejandra Gonzalez-Beltran",
-    orcid:      "0000-0003-3499-8262",
-    company:    "Scientific Computing Department, Science and Technology Facilities Council, UK",
-    url: "https://www.scd.stfc.ac.uk/Pages/Alejandra-Gonzalez-Beltran.aspx",
-    companyURL: "https://stfc.ukri.org/",
-    note: "Previously at the University of Oxford",
-    w3cid: 61587
-  },{
-    name:       "Andrea Perego",
-    orcid:      "0000-0001-9300-2694",
-    company:    "European Commission, Joint Research Centre",
-    companyURL: "https://ec.europa.eu/jrc/",
-    w3cid: 40317
-  },{
-    name: "Peter Winstanley",
-    company: "Scottish Government",
-    companyURL: "http://www.gov.scot/",
-    w3cid: 64374
   }],
   otherLinks: [{
     key: "Contributors",
