@@ -1,5 +1,5 @@
 var respecConfig = {
-  specStatus: "NOTE",
+  specStatus: "ED",
   editors: [{
     name:       "Hoge Hoge",
     orcid:  "0000-0000-0000-0000",
